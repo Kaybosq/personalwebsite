@@ -1,0 +1,36 @@
+#rcorners1 {
+            float: left;
+            border-radius: 50px 10px 50px;
+            border: 1px solid purple;
+            background: lavender;
+            padding: 20px; 
+            width: 200px;
+            height: 500px;
+            color:purple;
+            margin-right: 20px;
+
+}
+
+#rcorners2 {
+            background: #E3FCC1;
+            float: right;
+            border-radius: 10px 50px 10px;
+            border: 2px solid #77879F;
+            padding: 20px; 
+            width: 200px;
+            height: 500px;    
+}
+
+#rcorners3{
+            background: #FDE5DF;
+            float: left;
+            border-radius: 50px;
+            border: 2px solid #F9BFAE;
+            padding: 20px;
+            width: 525px;
+            height:500px;
+}
+img{
+      width: 200px;
+      height:auto;
+}
