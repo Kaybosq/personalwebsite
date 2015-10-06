@@ -3,16 +3,17 @@
 				background: #B89470;
 		        border-radius: 25px;
 		        width: 48%;
-		        height: 1000px;
+		        height: 385px;
 		        border: 2px solid #6E5943;
 		        box-sizing: border-box;
+		        
 }
 .right{
 				float: right;
 				background: #FFEB7F;
 		        border-radius: 25px;
 		        width: 50%;
-		        height: 1000px;
+		        height: 675px;
 		        border: 2px solid #FFD700;
 		        box-sizing: border-box;
 }
@@ -42,3 +43,16 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color: #7A991A;
+}
+
+ img{ 
+ 		margin: 20px 20px 20px 40px;
+ 		width: 450px;
+ 		height:auto;
+
+    }
+
+    .jada{
+    		margin-top: 35px;
+    		margin-left: 55px
+    }
